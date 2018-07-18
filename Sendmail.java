@@ -8,6 +8,7 @@ public class Sendmail {
 
 	public static void main(String[] args) {
 		//发送简单邮件
+		//++++++++++++++++++++++++++++
 		//=======================================
 		ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml");
 		//创建JavaMailsenderImpl对象
